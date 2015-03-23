@@ -23,12 +23,9 @@ This section lists the various visualizations that are developed for this projec
 In this visualization, the geographical location of Eventbrite events is plotted on the global map. Google Maps API is used, so the values for the location are encoded as the `latitude` and `longitude` values of the location. We leverage the power of Google Maps to zoom in and zoom out to have a closer look into any geogprahical location in the world.
 
 ###### Code Details: 
-* Source Code Directory: 
-** GoogleMapsAPIHeatMap
-** Read the README.md file in the corresponding directory
+* Source Code Directory: `GoogleMapsAPIHeatMap` (Read the README.md file in the corresponding directory)
 
-* References
-** Google maps API code samples from Google Developers [website](https://developers.google.com/maps/).
+* References: Google maps API code samples from Google Developers [website](https://developers.google.com/maps/).
 
 Following figure shows the screenshot of the data visualization
 
