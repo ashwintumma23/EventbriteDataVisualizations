@@ -11,6 +11,7 @@ This section provides a brief description of the all the files and their purpose
 * `DataPoints.txt`: File containing the count of the number of events that have occured/ will occur in each state.
 * `GetStatesCounters.py`: Python script for fetching the "region" data from the Event Brite JSON API and counting the number of occurences for events in each state of the United States. (See file header  comments for detailed description and elaborate comments).
 * `PopulateJSON.py`: Python script for reading the data from the data points text file and populating the JSON file with the required data and its required format.
+* `README.md`: This file
 * `D3HeatMapDisplay.html`: HTML5 code for rendering the Javascript heatmap in the browser
 * `jquery.tipsy.js`: Javascript for displaying the tooltips
 * `tipsy.css`: CSS file for the tooltip rendering
