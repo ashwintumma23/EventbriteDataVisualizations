@@ -5,7 +5,7 @@ This section enlists the features of the Google Maps heatmap data visualization.
 * Displays the data for the all the regions of the world at once.
 * Leverages the aesthetic features of the Google Maps API and also allows us to zoom in and zoom out with respect to a particular geographical location (See screenshots below).
 * The darker the heat in a particular region, more the number of events that were held in that region and vice versa.
-* Data is extracted from XXXXXX region (latitude and longitude) values.
+* Data is extracted from 194,885 region (latitude and longitude) values.
 
 ### Files
 This section provides a brief description of the all the files and their purpose in this directory. 

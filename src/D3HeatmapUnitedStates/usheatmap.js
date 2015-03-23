@@ -36,7 +36,7 @@ function buildMap(data){
                 return Math.log(values[d.properties.abbr] || 1);
             })])
             .interpolate(d3.interpolateRgb)
-            .range(['#99FFFF', '#6600CC']);
+            .range(['#FFCCCC', '#FF0000']);
  
     g.selectAll('path')
             .data(data.states)
