@@ -5,6 +5,7 @@ Through this data visualization, we see the distribution of events date-wise for
 * Upon hovering the mouse over each date, 
 * Makes use of UNIX epoch time for keeping track of the dates of the year. The data available from Eventbrite API is in "YYYY-mm-ddTHH:MM:SS" format. This is converted into UNIX epoch time using the time.mk_time function available in Python.
 * On hovering the mouse over each date, it displays the date value and the number of events that have occured/ will occur on that particular day.
+* The darker the color of the day, more the number of events that were held on that day and vice versa.
 
 ##### Screenshots: 
 The following screenshot displays a sample value for a day in month of June 2015
