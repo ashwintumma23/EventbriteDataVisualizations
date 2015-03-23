@@ -5,7 +5,7 @@ This repository contains data analysis and visualization of data from [Eventbrit
 Python, [D3.js](http://d3js.org/), [Google Maps API v3](https://developers.google.com/maps/), jQuery
 
 #### Author
-[Ashwin Tumma](https://sites.google.com/site/ashwintumma23) 
+[Ashwin Tumma](https://sites.google.com/site/ashwintumma23)   
 Computer Science Graduate Student,  
 Stony Brook University,  
 New York, United States  
