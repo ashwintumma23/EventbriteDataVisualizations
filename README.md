@@ -1,4 +1,4 @@
-# Event Brite Data Visualizations
+# Eventbrite Data Visualizations
 This repository contains data analysis and visualization of data from [Eventbrite](https://www.eventbrite.com/). The data required for these optimizations is obtained from the API provided by [Event Bride API](http://eventbriteapi.com/). 
 
 #### Development Platforms and Languages
@@ -20,7 +20,17 @@ This section lists the various visualizations that are developed for this projec
 * Bubble Chart showcasing the different types/ formats of events that occur on Eventbrite.
 
 ##### Heatmap of Geographical Location of Events across the world (Google Maps API)
-sdjaflkdsjf
+In this visualization, the geographical location of Eventbrite events is plotted on the global map. Google Maps API is used, so the values for the location are encoded as the `latitude` and `longitude` values of the location. We leverage the power of Google Maps to zoom in and zoom out to have a closer look into any geogprahical location in the world.
+
+###### Code Details: 
+* Source Code Directory: 
+** GoogleMapsAPIHeatMap
+** Read the README.md file in the corresponding directory
+
+* References
+** Google maps API code samples from Google Developers [website](https://developers.google.com/maps/).
+
+Following figure shows the screenshot of the data visualization
 
 ##### Heatmap of count of events in the United States
 
