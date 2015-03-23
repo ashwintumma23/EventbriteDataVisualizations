@@ -19,8 +19,8 @@ This section lists the various visualizations that are developed for this projec
 * Heatmap of count of events in the United States
 * Bubble Chart showcasing the different types/ formats of events that occur on Eventbrite.
 
- Heatmap of Geographical Location of Events across the world (Google Maps API)
- ================================================================================
+Heatmap of Geographical Location of Events across the world (Google Maps API)
+================================================================================
 In this visualization, the geographical location of Eventbrite events is plotted on the global map. Google Maps API is used, so the values for the location are encoded as the `latitude` and `longitude` values of the location. We leverage the power of Google Maps to zoom in and zoom out to have a closer look into any geogprahical location in the world.
 
 ###### Code Details: 
@@ -48,7 +48,7 @@ Following figure shows the screenshot of distributions of events based on their 
  ![My image](https://github.com/ashwintumma23/EventbriteDataVisualizations/blob/master/Images/D3Maps.png)
   
   
- ##### Bubble Chart showcasing the different types/ formats of events that occur on Eventbrite (using D3.js)
+##### Bubble Chart showcasing the different types/ formats of events that occur on Eventbrite (using D3.js)
 This is a simple visualization showcasing the weight of the formats of the events on Eventbrite globally. On the event of hovering the mouse over the bubble, shows a detailed description of the format, and also its count.
 
 ###### Code Details: 
