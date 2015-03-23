@@ -3,7 +3,6 @@ Through this data visualization, we see the distribution of events date-wise for
 ### Features
 This section enlists the features of the Calendar heatmap data visualization. 
 * Displays the data for the entire year 2015 (the year for which the data was queried)
-* Upon hovering the mouse over each date, a detailed view of the date and the number of events occured/ occuring on that day is displayed.
 * Makes use of UNIX epoch time for keeping track of the dates of the year. The data available from Eventbrite API is in "YYYY-mm-ddTHH:MM:SS" format. This is converted into UNIX epoch time using the time.mk_time function available in Python.
 * On hovering the mouse over each date, it displays the date value and the number of events that have occured/ will occur on that particular day.
 * The darker the color of the day, more the number of events that were held on that day and vice versa.
