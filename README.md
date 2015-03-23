@@ -18,6 +18,7 @@ This section lists the various visualizations that are developed for this projec
 * Heatmap of geographical location of events across the world (with integration to Google Maps)
 * Heatmap of count of events in the United States (using D3.js)
 * Bubble Chart showcasing the different types/ formats of events that occur on Eventbrite (using D3.js).
+* Calendar Heatmap showing the heatmap according to the dates of the events (using D3.js)
 
 Heatmap of Geographical Location of Events across the world (Google Maps API)
 ================================================================================
@@ -58,6 +59,17 @@ This is a simple visualization showcasing the weight of the formats of the event
 
 Following figure shows the screenshot of distributions of events based on their formats
  ![My image](https://github.com/ashwintumma23/EventbriteDataVisualizations/blob/master/Images/BubbleChart.png)
+  
+##### Calendar Heatmap of Eventbrite events shown according to the dates (using D3.js)
+In this data visualization we construct a calendar, and then map the events to its particular date. This heatmap representation shows us at a single glance which date or month has the highest concentration of events.
+
+###### Code Details: 
+* Source Code Directory: `CalendarHeatMap` (Read the README.md file in the corresponding directory)
+
+* References: Calendar Heatmap D3 [Website](http://kamisama.github.io/cal-heatmap/) - For displaying the calendar heatmap
+
+Following figure shows the screenshot of distributions of events based on their formats
+ ![My image](https://github.com/ashwintumma23/EventbriteDataVisualizations/blob/master/Images/CalendarJune.png)
   
 #### Enhancements
 This section lists some of the enhancements that can be done on the visualization charts. 

@@ -5,6 +5,7 @@ This directory contains all the codes (Python, D3, jQuery) which were used for d
 * GoogleMapsAPIHeatMap : Heatmap of geographical location of events across the world (with integration to Google Maps)  
 * D3HeatmapUnitedStates :  Heatmap of count of events in the United States (using D3.js)
 * FormatDataRepresentation : Bubble Chart showcasing the different types/ formats of events that occur on Eventbrite (using D3.js).
+* CalendarHeatMap : Calendar Heatmap representing the heatmap of dates for the events on Eventbrite (using D3.js).
 
 ##### FILES
 * GetEventBriteData.py: Get location, date and formatID data from the APIs that are exposed by Eventbrite API interface.
