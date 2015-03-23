@@ -33,8 +33,16 @@ Following figure shows the screenshot of the data visualization looking from the
 While, the next figure shows the screenshot of the event location plots for United States:
 ![My image](https://github.com/ashwintumma23/EventbriteDataVisualizations/blob/master/Images/UnitedStates.png)
 
-##### Heatmap of count of events in the United States
+##### Heatmap of count of events in the United States (using D3.js)
 
+###### Code Details: 
+* Source Code Directory: `D3HeatmapUnitedStates` (Read the README.md file in the corresponding directory)
 
+* References: DataMaps - Open Source code for creating maps [website](http://datamaps.github.io/).  
+Tipsy [Website](http://bl.ocks.org/ilyabo/1373263) - For displaying tips on mouse hover
+
+Following figure shows the screenshot of distributions of events based on their count in the United States
+ ![My image](https://github.com/ashwintumma23/EventbriteDataVisualizations/blob/master/Images/D3Maps.png)
+  
 #### Enhancements
 This section lists some of the enhancements that can be done on the visualization charts. 
