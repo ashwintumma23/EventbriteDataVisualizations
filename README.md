@@ -16,8 +16,8 @@ GNU GPL v2 (Please read License File)
 #### Visualizations
 This section lists the various visualizations that are developed for this project
 * Heatmap of geographical location of events across the world (with integration to Google Maps)
-* Heatmap of count of events in the United States
-* Bubble Chart showcasing the different types/ formats of events that occur on Eventbrite.
+* Heatmap of count of events in the United States (using D3.js)
+* Bubble Chart showcasing the different types/ formats of events that occur on Eventbrite (using D3.js).
 
 Heatmap of Geographical Location of Events across the world (Google Maps API)
 ================================================================================
