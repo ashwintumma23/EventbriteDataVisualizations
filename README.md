@@ -2,7 +2,7 @@
 This repository contains data analysis and visualization of data from [Eventbrite](https://www.eventbrite.com/). The data required for these optimizations is obtained from the API provided by [Event Bride API](http://eventbriteapi.com/). 
 
 #### Development Platforms and Languages
-Python, [D3.js](http://d3js.org/), [Google Maps API v3](https://developers.google.com/maps/)
+Python, [D3.js](http://d3js.org/), [Google Maps API v3](https://developers.google.com/maps/), jQuery
 
 #### Author
 Ashwin Tumma (ashwin.tumma@stonybrook.edu) 
@@ -34,6 +34,7 @@ While, the next figure shows the screenshot of the event location plots for Unit
 ![My image](https://github.com/ashwintumma23/EventbriteDataVisualizations/blob/master/Images/UnitedStates.png)
 
 ##### Heatmap of count of events in the United States (using D3.js)
+This visualization
 
 ###### Code Details: 
 * Source Code Directory: `D3HeatmapUnitedStates` (Read the README.md file in the corresponding directory)
@@ -43,6 +44,18 @@ Tipsy [Website](http://bl.ocks.org/ilyabo/1373263) - For displaying tips on mous
 
 Following figure shows the screenshot of distributions of events based on their count in the United States
  ![My image](https://github.com/ashwintumma23/EventbriteDataVisualizations/blob/master/Images/D3Maps.png)
+  
+  
+ ##### Bubble Chart showcasing the different types/ formats of events that occur on Eventbrite (using D3.js)
+
+
+###### Code Details: 
+* Source Code Directory: `D3HeatmapUnitedStates` (Read the README.md file in the corresponding directory)
+
+* References: Bubble Charts D3 [Website](http://bl.ocks.org/mbostock/4063269) - For displaying the bubbles
+
+Following figure shows the screenshot of distributions of events based on their formats
+ ![My image](https://github.com/ashwintumma23/EventbriteDataVisualizations/blob/master/Images/BubbleChart.png)
   
 #### Enhancements
 This section lists some of the enhancements that can be done on the visualization charts. 
