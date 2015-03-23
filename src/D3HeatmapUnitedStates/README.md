@@ -33,14 +33,15 @@ usheatmap.js
 * DataMaps - Open Source code for creating maps [website](http://datamaps.github.io/).  
 * Tipsy [Website](http://bl.ocks.org/ilyabo/1373263) - For displaying tips on mouse hover
 
-### Screenshots: 
+### Screenshots 
 Following figure shows the screenshot of distributions of events based on their count in the United States. The state being hovered upon in this screenshot is New York. 
  ![My image](https://github.com/ashwintumma23/EventbriteDataVisualizations/blob/master/Images/D3Maps.png)
  
  Following figure shows the screenshot of distributions of events based on their count in the United States. The state being hovered upon in this screenshot is California. 
- ![My image](https://github.com/ashwintumma23/EventbriteDataVisualizations/blob/master/Images/D3MapsCalifornia.png)
+ ![My image](https://github.com/ashwintumma23/EventbriteDataVisualizations/blob/master/Images/D3California.png)
  
- ### Other Enhancements: 
+### Other Enhancements: 
  This section lists some of the enhancements that are possible for in this data visualization. 
  * Aggregation of all the code in the same python script file can be done easily
  * Different colors can be used for rendering the maps. An example of which is shown in the screenshot below.
+![My image](https://github.com/ashwintumma23/EventbriteDataVisualizations/blob/master/Images/RedD3Map.png)
