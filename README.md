@@ -19,10 +19,10 @@ This section lists the various visualizations that are developed for this projec
 * Heatmap of count of events in the United States
 * Bubble Chart showcasing the different types/ formats of events that occur on Eventbrite.
 
-###### Heatmap of Geographical Location of Events across the world (Google Maps API)
+##### Heatmap of Geographical Location of Events across the world (Google Maps API)
 sdjaflkdsjf
 
-###### Heatmap of count of events in the United States
+##### Heatmap of count of events in the United States
 
 
 #### Enhancements
