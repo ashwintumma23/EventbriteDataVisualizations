@@ -28,6 +28,7 @@ In this visualization, the geographical location of Eventbrite events is plotted
 * References: Google maps API code samples from Google Developers [website](https://developers.google.com/maps/).
 
 Following figure shows the screenshot of the data visualization
+ ![My image](https://github.com/ashwintumma23/EventbriteDataVisualizations/blob/master/Images/GMapFull.png)
 
 ##### Heatmap of count of events in the United States
 
