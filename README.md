@@ -1,6 +1,6 @@
 # Eventbrite Data Visualizations
 This repository contains data analysis and visualization of data from [Eventbrite](https://www.eventbrite.com/). The data required for these optimizations is obtained from the API provided by [Eventbrite API](http://eventbriteapi.com/). 
-## Demos and Website
+# Demos and Website
 Please have a look at all demos which are running on the Project's [Website](http://ashwintumma23.github.io/EventbriteDataVisualizations). 
 
 #### Development Platforms and Languages
