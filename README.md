@@ -68,7 +68,7 @@ In this data visualization we construct a calendar, and then map the events to i
 
 * References: Calendar Heatmap D3 [Website](http://kamisama.github.io/cal-heatmap/) - For displaying the calendar heatmap
 
-Following figure shows the screenshot of distributions of events based on their formats
+Following figure shows the screenshot of distributions of events based on their start date
  ![My image](https://github.com/ashwintumma23/EventbriteDataVisualizations/blob/master/Images/CalendarJune.png)
   
 #### Enhancements
