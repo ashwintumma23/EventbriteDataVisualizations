@@ -8,7 +8,7 @@ Python, [D3.js](http://d3js.org/), [Google Maps API v3](https://developers.googl
 [Ashwin Tumma](https://sites.google.com/site/ashwintumma23)   
 Computer Science Graduate Student,  
 Stony Brook University,  
-New York, United States  
+New York, United States of America 
 
 #### License
 GNU GPL v2 (Please read License File)
